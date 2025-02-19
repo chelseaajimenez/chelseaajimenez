@@ -1,6 +1,6 @@
 # Hiya! I'm Chelsea Jimenez  
 
-## About Me  
+## 😎 About Me  
 I began my career in education, supporting preschool-aged children in underserved communities as a **Jumpstart AmeriCorps** member. The COVID-19 pandemic highlighted systemic gaps in educational resources, sparking my interest in **data-driven solutions** beyond direct service.
 
 This curiosity led me to **research**, where I worked in **UC Berkeley’s Language and Cognitive Development Lab**, analyzing how pandemic stressors influenced caregiver-child interactions. Using R for linguistic analysis.
