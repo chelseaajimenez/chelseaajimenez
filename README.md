@@ -39,15 +39,7 @@ Now, as a **Master’s student in Computational Social Science at UC Berkeley**,
 
 ### **🌱 Environmental Policy Language Analysis**  
 Analyzed **K-12 environmental policies** across California school districts, using **Python and Pandas** for text extraction and **NLP** for text analysis. Identified **policy trends** and provided recommendations for climate-conscious education initiatives.  
-🔗 [View Project](YOUR_PROJECT_LINK)  
-
-### **🌪️ Hurricane Displacement Risk Analysis**  
-Merged **FEMA’s National Risk Index** with **ACS Census data** to assess **long-term housing vulnerability post-hurricane**. Created visualizations comparing displacement risk by **race, income, and homeownership**.  
-🔗 [View Project](YOUR_PROJECT_LINK)  
-
-### **👩‍💼 Gender Wage Gap Analysis Using NSCG Data**  
-Explored the **intersection of race, gender, and leadership representation** in salary disparities using **Python and R**. Applied **regression models** and visualizations to assess systemic inequities.  
-🔗 [View Project](YOUR_PROJECT_LINK)  
+🔗 [View Project](https://github.com/chelseaajimenez/EnvironmentalPolicyLanguageAnalysis)  
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chelseaajimenez)  
