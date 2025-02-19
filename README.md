@@ -42,7 +42,7 @@ Analyzed **K-12 environmental policies** across California school districts, usi
 🔗 [View Project](https://github.com/chelseaajimenez/EnvironmentalPolicyLanguageAnalysis)  
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chelseaajimenez)  
+[LinkedIn](https://linkedin.com/in/chelseaajimenez)  
 
 
 ## 📄 Resume  
