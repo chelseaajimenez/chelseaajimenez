@@ -46,5 +46,5 @@ Analyzed **K-12 environmental policies** across California school districts, usi
 
 
 ## 📄 Resume  
-[View My Resume](YOUR_RESUME_LINK)  
+[View My Resume](chelsea-jimenez-resume.tiiny.site)  
 
