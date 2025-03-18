@@ -27,7 +27,8 @@ Now, as a **Master’s student in Computational Social Science at UC Berkeley**,
 ### **Data Visualization**  
 - Seaborn  
 - Matplotlib  
-- Tableau  
+- Tableau
+- Microsoft PowerBI
 
 ### **Machine Learning Modeling**  
 - Classification  
